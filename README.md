@@ -59,8 +59,8 @@ The **Content Generation System** is an AI-powered web platform that provides se
 #### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/hrithikksingh3/Content-generation-system.git
-cd content-generation-system
+git clone https://github.com/Ks-sharma01/ai-content-generator.git
+cd ai-content-generator
 ```
 
 #### 2. Install Dependencies:
@@ -148,9 +148,9 @@ Ensure `.env.local` is properly configured in Vercel’s dashboard.
 
 ## Contributors
 
-- **Hrithik Kumar Singh** – Lead Developer & Project Architect
+- **Kiran Sharma** - Full Stack Developer
+- **Hrithik Kumar Singh** 
 - **Kalpana Bharti** 
-- **Kiran Sharma** 
 - **Shiven Pokhriyal** 
 
 ---
