@@ -161,14 +161,4 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to me at shrithik511@gmail.com
-
-## Support
-
-<h2>I love coffee. Wanna buy me one? 😊👇</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/codersvoice" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</p>
-
+For any questions or feedback, feel free to reach out to me.
